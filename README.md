@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jeetp0619
+- 👋 Yo, Im Jeet a  Computer Science Student currently attended CSULB
 - 👀 I’m interested in learning as much things as i can
 - 🌱 I’m currently learning front-end web development
 - 📫 How to reach me jeetp0619@gmail.com
