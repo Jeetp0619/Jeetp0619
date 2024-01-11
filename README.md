@@ -5,19 +5,17 @@
 
 <p align="center">
   <em>
-    Myself <b>Jeet Patel</b>, a final year <b>Computer Science</b> undergraduate from <b>California State University: Long Beach</b>
-    An aspiring <b>UI / UX Designer,</b>&nbsp; <b>Full Stack Web Developer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
+    I am a final year <b>Computer Science</b> undergraduate from <b>California State University: Long Beach</b>
+    An aspiring <b> Software Devolper,</b>&nbsp; 
   <br>
-  <b><i>"---Its a difference of just one try between Success and Failure---"</i></b>
+  
 </p>
 
 <h3>Little facts about me 🧑</h3>
 
-- 🧞 I'm a Tech Enthusiast since childhood.
-- 🔭 I’m currently working on Fullstack Web Development, Native Mobile Development.
-- 👯 I’m looking to collaborate with Fullstack Web and UI/UX projects.
-- 💡 Contributing to Open Source Projects is always been a goal to me.
-- ⚡ Fun fact: I love the Outdoors and Gaming.
+- 🧞 I love tech and learning new things
+- 🔭 I’m currently working on Fullstack Web Development, Native Mobile Development
+- ⚡ Fun fact: I love the Outdoors and Gaming
 <br>
 
 ---
